@@ -1,0 +1,7 @@
+c:\users\trey\documents\visual studio 2017\Projects\HackerRank_LeftRotation\HackerRank_LeftRotation\bin\Debug\HackerRank_LeftRotation.exe.config
+c:\users\trey\documents\visual studio 2017\Projects\HackerRank_LeftRotation\HackerRank_LeftRotation\bin\Debug\HackerRank_LeftRotation.exe
+c:\users\trey\documents\visual studio 2017\Projects\HackerRank_LeftRotation\HackerRank_LeftRotation\bin\Debug\HackerRank_LeftRotation.pdb
+c:\users\trey\documents\visual studio 2017\Projects\HackerRank_LeftRotation\HackerRank_LeftRotation\obj\Debug\HackerRank_LeftRotation.csprojResolveAssemblyReference.cache
+c:\users\trey\documents\visual studio 2017\Projects\HackerRank_LeftRotation\HackerRank_LeftRotation\obj\Debug\HackerRank_LeftRotation.csproj.CoreCompileInputs.cache
+c:\users\trey\documents\visual studio 2017\Projects\HackerRank_LeftRotation\HackerRank_LeftRotation\obj\Debug\HackerRank_LeftRotation.exe
+c:\users\trey\documents\visual studio 2017\Projects\HackerRank_LeftRotation\HackerRank_LeftRotation\obj\Debug\HackerRank_LeftRotation.pdb
